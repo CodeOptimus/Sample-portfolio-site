@@ -24,14 +24,6 @@ a {
   justify-content: center;
 }
 
-#about .container {
-  min-height: 50vh;
-}
-
-#contact .container {
-  min-height: 50vh;
-}
-
 img {
   height: 100%;
   width: 100%;
@@ -585,6 +577,14 @@ p {
 }
 /* Contact section ends here */
 
+
+#about .container {
+  min-height: 50vh;
+}
+
+#contact .container {
+  min-height: 50vh;
+}
 
 /* Footer starts here */
 #footer {

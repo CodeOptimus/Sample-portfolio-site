@@ -17,11 +17,19 @@ a {
 }
 
 .container {
-  min-height: 50vh;
+  min-height: 100vh;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+#about .container {
+  min-height: 50vh;
+}
+
+#contact .container {
+  min-height: 50vh;
 }
 
 img {
